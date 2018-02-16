@@ -1,0 +1,3 @@
+/Users/Asrat/CLionProjects/CLProject1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Asrat/CLionProjects/CLProject1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Asrat/CLionProjects/CLProject1/cmake-build-debug/CMakeFiles/CLProject1.dir
